@@ -52,4 +52,4 @@ while True:
     play_again = input("Play again?")
     if play_again != "yes":
         break
-print("Bye!")
+print("Bye Bye!")
